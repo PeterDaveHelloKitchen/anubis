@@ -10,7 +10,7 @@
 
 # The network address that Anubis serves Prometheus metrics on.
 #
-# If unset, listen on /run/anubis_${instance}/metrix.sock Unix socket instead.
+# If unset, listen on /run/anubis_${instance}/metrics.sock Unix socket instead.
 #ANUBIS_METRICS_BIND_PORT=":9090"
 
 # The difficulty of the challenge, or the number of leading zeroes that must be

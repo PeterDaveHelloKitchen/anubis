@@ -414,7 +414,7 @@ Anubis now is able to store things persistently [in memory](./admin/policies.mdx
 
 Anubis now supports localized responses. Locales can be added in [lib/localization/locales/](https://github.com/TecharoHQ/anubis/tree/main/lib/localization/locales). This release includes support for the following languages:
 
-- [Brazilian Portugese](https://github.com/TecharoHQ/anubis/pull/726)
+- [Brazilian Portuguese](https://github.com/TecharoHQ/anubis/pull/726)
 - [Chinese (Simplified)](https://github.com/TecharoHQ/anubis/pull/774)
 - [Chinese (Traditional)](https://github.com/TecharoHQ/anubis/pull/759)
 - English

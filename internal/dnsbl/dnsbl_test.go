@@ -54,7 +54,7 @@ func TestLookup(t *testing.T) {
 
 	resp, err := Lookup("27.65.243.194")
 	if err != nil {
-		t.Fatalf("it broked: %v", err)
+		t.Fatalf("it broke: %v", err)
 	}
 
 	t.Logf("response: %d", resp)
